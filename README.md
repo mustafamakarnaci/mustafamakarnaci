@@ -3,7 +3,7 @@
 #### Web Development
         
 - 🔭 I’m currently working on React JS 
-- 🌱 I’m currently learning GraphQL 
+- 🌱 I’m currently learning web3.0 fundamentals and NEAR Protocol.
 
 
 
