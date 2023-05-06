@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Web Development
+#### Web and Mobile Development
         
 - 🔭 I’m currently working on React.JS and React Native 
 
